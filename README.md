@@ -37,11 +37,10 @@ Technologies Used are: Spring boot, java, mysql, spring web, Spring JPA
 * Only 3 capacities allowed in the system ( 3,4,5), throws exception if not in the range.
 * Database scheme diagram is also present (Location: cab-service/Database Schema Diagram.png.
 
-I have reference cab service application to create this hotel reservation application and will show in browser like below
-Here
-// Car= hotel
-//driver= employee
-//car list= hotel list
-//1 seater= 1 room
-//2 seater= 2 room
-//3 seater= 3 room
+## Important note: I have reference cab service application to create this hotel reservation application and will show in browser like below
+*Car= hotel
+*driver= employee
+*car list= hotel list
+*1 seater= 1 room
+*2 seater= 2 room
+*3 seater= 3 room
