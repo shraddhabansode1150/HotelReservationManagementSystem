@@ -6,7 +6,7 @@
 * Java version: 17
 * JSP for frontend
 * Everything is present in the pom.xml (no need to download any library)
-## Steps to run cab booking app
+## Steps to run Hotel booking app
 * Download the source code and import in intellijIDEA. Wait for the libraries to get loaded.
 * import the cab_application.db into your database. (Location: cab_service/cab_application.sql)
 * Go to localhost:8080/
@@ -16,7 +16,6 @@
 * userID:cust1,role:USER,password:123
 * userID:cust2,role:USER,password:123
 
-## Demo Video Link: https://www.youtube.com/watch?v=5x5gmJEXhVY
 
 # Admin EndPoints
 * Home - localhost:8080/
@@ -27,7 +26,7 @@
 # Customer EndPoints
 * Buttons are present at the ui for booking
 * For cab cancellation - after booking URL will be returned in the form of json
-# Driver EndPoints
+# Employee EndPoints
 *  Request Car from Driver - http://localhost:8080/request-car?driverId=102&carId=402
 *  Withdraw from system - http://localhost:8080/delete-driver?id=102
 ## Note
