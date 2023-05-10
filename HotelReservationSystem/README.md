@@ -1,4 +1,4 @@
-# cab-service 
+# Hotel Reservation
 ## Requirments
 * IntelliJIDEA
 * Serverport: 8080 (use: localhost:8080)
